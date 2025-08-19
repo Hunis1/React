@@ -24,7 +24,6 @@ export default function App() {
 
   return (
     <div>
-      кенукен
       <Header/>
       <Main/>
       <section>
